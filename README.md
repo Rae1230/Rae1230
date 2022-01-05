@@ -3,7 +3,7 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, C, C++
+-  **Languages :** C, C++, Matlab
 -  **Hobbies :** Bilibili & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 
