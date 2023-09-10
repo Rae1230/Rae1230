@@ -2,9 +2,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** C, C++, Matlab
--  **Hobbies :** Bilibili & Music :headphones:
+-  **Learning :** Deep Learning, Reinforcement Learning :zap: | Open-Source :fire:	
+-  **Languages :** C, C++, Python, Matlab
+-  **Hobbies :** Bilibili & KPOP :headphones: 
 -  **Fact :** First solve the problem, then write the code :heart: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
